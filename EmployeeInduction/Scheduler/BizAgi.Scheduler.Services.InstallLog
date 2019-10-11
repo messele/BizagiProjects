@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiEmployeeInductionSchedulerService
+   assemblypath = C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Installing service BizAgiEmployeeInductionSchedulerService...
+Service BizAgiEmployeeInductionSchedulerService has been successfully installed.
+Creating EventLog source BizAgiEmployeeInductionSchedulerService in log Application...
+Committing assembly 'C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiEmployeeInductionSchedulerService
+   assemblypath = C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Users\messele\Workspace\BizagiProjects\EmployeeInduction\Scheduler\BizAgi.Scheduler.Services.InstallLog
