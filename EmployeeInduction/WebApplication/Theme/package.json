@@ -28,7 +28,7 @@
     "karma-requirejs": "~0.2.2",
     "phantomjs-polyfill": "0.0.1",
     "progress": "~1.1.8",
-    "request": "~2.61.0",
+    "request": "~2.88.0",
     "requirejs": "~2.1.20",
     "shelljs": "~0.5.3"
   }
